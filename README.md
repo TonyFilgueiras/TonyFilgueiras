@@ -1,26 +1,77 @@
 <h1 align="center">Hi 👋, I'm Tony</h1>
-<h3 align="center">A creative FrontEnd Developer and an eternal student!</h3>
-<h3 align="left">Personal portfolio: <a href="https://tony-portifolio.vercel.app" target="_blank">https://tony-portifolio.vercel.app</a></h3>
-<h1></h1>
 
+<h3 align="center">
+Frontend Developer focused on React, TypeScript, and modern web applications.
+</h3>
 
-- 📫 How to reach me **ant.mosquera@yahoo.com.br**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/antonio-mosquera/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonio-mosquera/" height="30" width="40" /></a>
+<p align="center">
+Building responsive, scalable, and user-friendly applications while continuously learning new technologies.
 </p>
 
-<h3>Languages and Tools:</h3> 
-<div style="display: inline_block">
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  
-</div>
+---
+
+## 🌐 Portfolio
+
+🔗 https://tony-portifolio.vercel.app
+
+---
+
+## 📬 Contact
+
+- 📧 ant.mosquera@yahoo.com.br
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/antonio-mosquera/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+  </a>
+<a ...></a>&nbsp;&nbsp;
+<a ...></a>
+  <a href="https://www.upwork.com/freelancers/~0166323b159b624087" target="_blank">
+    <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building production-ready React and Next.js applications
+- TypeScript best practices
+- Cloud deployment with AWS & Docker
+- Creating fast MVPs and modern web experiences
