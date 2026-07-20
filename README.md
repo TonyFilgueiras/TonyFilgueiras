@@ -24,6 +24,3 @@
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 </div>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyFilgueiras&show_icons=true&locale=en&theme=react" alt="TonyFilgueiras" /></p>
